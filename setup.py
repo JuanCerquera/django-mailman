@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name = 'django-mailman',
-    version = '0.4eso1',
+    version = '0.4.1',
     packages = ['django_mailman',],
     platforms = ['any'],
     license = 'GNU LGPL v2.1',
